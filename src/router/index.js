@@ -25,6 +25,14 @@ const routes = [
     name: 'apply',
     component: () => import('@/views/Apply.vue'),
   },
+  {
+    meta: {
+      title: 'Mint'
+    },
+    path: '/mint',
+    name: 'mint',
+    component: () => import('@/views/Mint.vue'),
+  },
   { path: '/:pathMatch(.*)*', redirect: '/' } // Catch-all route
 ];
 

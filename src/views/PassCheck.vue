@@ -23,9 +23,11 @@
                             </p>
                         </div>
                         <br>
+                          <router-link to="/mint">
                         <Button color="secondary" class="min-w-[300px] md:min-w-[360px] text-[22px] lg:text-[24px] uppercase">
                         Here is my Pass
                         </Button>
+                          </router-link>
                         <router-link to="/apply">
                               <Button color="primary"  class="min-w-[300px] md:min-w-[360px] text-[22px] lg:text-[24px] uppercase">
                                 I don't have a pass
