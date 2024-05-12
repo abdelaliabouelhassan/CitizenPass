@@ -17,6 +17,14 @@ const routes = [
     name: 'pass-check',
     component: () => import('@/views/PassCheck.vue'),
   },
+  {
+    meta: {
+      title: 'Apply'
+    },
+    path: '/apply',
+    name: 'apply',
+    component: () => import('@/views/Apply.vue'),
+  },
   { path: '/:pathMatch(.*)*', redirect: '/' } // Catch-all route
 ];
 

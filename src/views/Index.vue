@@ -9,7 +9,7 @@
           <router-link to="/pass-check">
             <Button
               color="primary"
-              class="min-w-[300px] md:min-w-[350px] text-[40px] md:text-[46px]"
+              class="min-w-[300px] md:min-w-[350px] text-[40px] md:text-[46px] uppercase"
             >
               » Enter «
             </Button>
