@@ -9,6 +9,14 @@ const routes = [
     name: 'home',
     component: () => import('@/views/Index.vue'),
   },
+  {
+    meta: {
+      title: 'Pass Check'
+    },
+    path: '/pass-check',
+    name: 'pass-check',
+    component: () => import('@/views/PassCheck.vue'),
+  },
   { path: '/:pathMatch(.*)*', redirect: '/' } // Catch-all route
 ];
 
