@@ -13,10 +13,10 @@
                            Connect wallet
                     </Button>
                 </div>
-               <h1 class=" text-white font-bold text-[40px] md:text-[70px] lg:text-[96px]">Mint is (not) live</h1>
+               <h1 class=" text-white font-bold text-[40px] md:text-[70px] lg:text-[96px] font-orbitron">Mint is (not) live</h1>
                 <MintCard />
                <div class=" w-full max-w-[800px] bg-[#091A23] rounded-[20px] p-8 border border-[#00F0FF] flex flex-col items-center space-y-5">
-                <p class=" text-center text-white text-[18px] md:text-[20px] font-orbitron uppercase">
+                <p class=" text-center text-white text-[18px] md:text-[20px] font-orbitron ">
                     The OG pre-sale, limited to only 666 pieces, offers early supporters huge benefits, such as free Section 16 character mints with exclusive OG Skill, XP Multiplier, a Nifty Island Avatar, Access to special events and much more (depending on the rarity of the pass), while initial funds are raised for the production of the first merchandise products and the development of Survivor City 01.
                     <br> <br>
                     As a special highlight, the Citizen Pass is a burnable token which holders can burn at a later date and in return receive a customized Soulbound Token with lifelong benefits.
