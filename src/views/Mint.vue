@@ -26,7 +26,7 @@
                  </Button>
                </div>
 
-               <div>
+               <div class=" max-w-[800px] rounded-[20px] overflow-hidden max-h-[434.55px]">
                 <img src="/images/Steps_mintpage.png" class=" w-full h-full object-cover" alt="">
                </div>
             </div>
