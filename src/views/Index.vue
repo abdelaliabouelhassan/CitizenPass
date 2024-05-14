@@ -1,11 +1,11 @@
 <template>
   <DefaultLayout>
-    <section class="w-full relative overflow-hidden h-[642px] sm:h-[1080px]">
+    <section class="w-full relative overflow-hidden h-screen">
       <img src="/images/homebg.png" class="w-full h-full object-cover" alt="" />
       <div
         class="w-full h-full absolute top-0 left-0 flex items-center justify-center"
       >
-        <div class=" pt-[280px] sm:pt-[500px]">
+        <div class=" pt-[300px] sm:pt-[500px]">
           <router-link to="/pass-check">
             <Button
               color="primary"

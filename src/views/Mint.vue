@@ -7,13 +7,13 @@
             <div class="w-full h-full  top-0 left-0 relative z-10 px-4 flex flex-col items-center py-20 space-y-10">
                 <div class=" w-full flex items-center md:flex-row flex-col space-y-10 md:space-y-0 md:justify-between max-w-[966px]">
                     <div class=" max-w-[310px] h-[71px]">
-                        <img src="/images/logo.png" class=" w-full h-full object-cover" alt="">
+                        <img src="/images/logo.svg" class=" w-full h-full object-cover" alt="">
                     </div>
                     <Button color="primary"  class="min-w-[300px] md:min-w-[360px] text-[20px] !h-[60px] uppercase">
                            Connect wallet
                     </Button>
                 </div>
-               <h1 class=" text-white font-bold text-[40px] md:text-[70px] lg:text-[96px] font-orbitron">Mint is (not) live</h1>
+               <h1 class=" text-white font-bold text-[40px] md:text-[70px] lg:text-[96px] font-orbitron uppercase">Mint is (not) live</h1>
                 <MintCard />
                <div class=" w-full max-w-[800px] bg-[#091A23] rounded-[20px] p-8 border border-[#00F0FF] flex flex-col items-center space-y-5">
                 <p class=" text-center text-white text-[18px] md:text-[20px] font-orbitron ">
