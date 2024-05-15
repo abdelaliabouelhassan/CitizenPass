@@ -1,6 +1,6 @@
 <template>
     <DefaultLayout>
-        <section class=" w-full h-screen  relative overflow-hidden "  >
+        <section class=" w-full   relative overflow-hidden "  >
            <div class=" w-full h-full absolute top-0 left-0">
              <img src="/images/manga.png" class=" w-full h-full object-cover" alt="">
            </div>
