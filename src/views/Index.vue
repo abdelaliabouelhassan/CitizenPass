@@ -1,7 +1,7 @@
 <template>
   <DefaultLayout>
     <section class="w-full relative overflow-hidden h-screen">
-      <img src="/images/homebg.png" class="w-full h-full object-cover" alt="" />
+      <img src="/images/homebg.webp" class="w-full h-full object-cover" alt="" />
       <div
         class="w-full h-full absolute top-0 left-0 flex items-center justify-center"
       >
