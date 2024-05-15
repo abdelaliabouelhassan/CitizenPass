@@ -9,13 +9,13 @@
             </p>
 
             <div class=" flex items-center space-x-8">
-                <a href="#">
+                <a href="https://immortal-parasite.com/">
                     <img src="/icons/world.svg" alt="">
                 </a>
-                <a href="#">
+                <a href="https://twitter.com/JoinTheUWO">
                     <img src="/icons/x.svg" alt="">
                 </a>
-                <a href="#">
+                <a href="https://discord.gg/gew3aMkgEe">
                     <img src="/icons/discord.svg" alt="">
                 </a>
             </div>

@@ -14,20 +14,20 @@
                    </div>
 
                    <div class=" flex flex-col items-center space-y-8 relative pt-[140px] xl:pt-10 z-10">
-                        <div class=" border-2 border-[#00F0FF] text-center max-w-[460px] bg-[#042538] rounded-[20px] py-8 px-14">
-                            <h1 class=" text-[60px] xl:text-[90px] font-orbitron font-bold text-white uppercase">Stop!</h1>
-                            <p class=" text-center text-white font-bold font-orbitron text-[22px] xl:text-[34px] uppercase">
+                        <div class=" border-2 border-[#00F0FF] text-center max-w-[460px] bg-[#042538] rounded-[20px] pt-[24px] pb-[40px] px-14">
+                            <h1 class=" text-[60px]  font-orbitron font-bold text-white uppercase">Stop!</h1>
+                            <p class=" text-center text-white font-bold font-orbitron text-[24px]  uppercase">
                                 This is a security area. No access without a citizen pass.
                                     <br> <br>
                                 Show me your pass!
                             </p>
                         </div>
                         <br>
-                        <Button color="secondary" class=" cursor-not-allowed hover:!scale-100 min-w-[300px] md:min-w-[360px] text-[22px] xl:text-[24px] uppercase">
+                        <Button color="secondary" class=" cursor-not-allowed hover:!scale-100 min-w-[300px] md:min-w-[360px] text-[20px] !h-[80px] uppercase">
                         Here is my Pass
                         </Button>
                         <router-link to="/apply">
-                              <Button color="primary"  class="min-w-[300px] md:min-w-[360px] text-[22px] xl:text-[24px] uppercase">
+                              <Button color="primary"  class="min-w-[300px] md:min-w-[360px]  text-[20px] !h-[80px] uppercase">
                                 I don't have a pass
                              </Button>
                         </router-link>

@@ -29,7 +29,7 @@
            </div>
           <div class=" w-full pt-4 flex items-center space-x-4">
             <img src="/images/etherscan.png" class=" max-w-[50px] max-h-[50px]" alt="">
-             <Button color="primary"  class=" w-full text-[32px] !h-[50px]  uppercase !rounded-[10px] hover:!scale-105">
+             <Button color="primary"  class=" w-full text-[26px] !h-[50px]  uppercase !rounded-[10px] hover:!scale-105">
                            mint
             </Button>
           </div>
